@@ -1,8 +1,8 @@
 {
-  "name": "My App",
+  "name": "assignment3",
   "version": "1.0.0",
   "description": "Event Management System RESTFUL API",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
