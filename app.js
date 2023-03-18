@@ -33,7 +33,7 @@ require('./app/routes/user.js')(app);
 
 // Authentication
 db.mongoose
-	.connect('mongodb+srv://idammix:currency@cluster0.gh4jygf.mongodb.net/?retryWrites=true&w=majority', {
+	.connect('mongodb+srv://idammix:@cluster0.gh4jygf.mongodb.net/?retryWrites=true&w=majority', {
 		useNewUrlParser: true,
 		useUnifiedTopology: true
 	})
